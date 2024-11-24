@@ -1,12 +1,17 @@
-- I am Maneesha 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Btech on Artificial Intelligence and Data Science in M.kumarasamy college of engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Maneesha, a second-year Artificial Intelligence & Data Science (AI&DS) student.  
 
-<!---
-MANEESHA33/MANEESHA33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m passionate about:  
+- Building IoT-based solutions like home security systems.  
+- Data analysis and visualization using tools like IBM Watson Studio.  
+- Algorithm development, including Dijkstra's algorithm.  
+
+🛠️ Skills:  
+- Programming: Python, C, C++, and Java.  
+- Interests: IoT, AI-driven applications, and mental health analytics.  
+
+🌟 Current Projects:  
+- IoT-enabled Home Security System.  
+- Fitness Tracker Program.  
+
+📫 Let’s connect!  
+[maneesha3665@gmail.com]
