@@ -1,4 +1,4 @@
-👋 Hi there! I'm Maneesha, a second-year Artificial Intelligence & Data Science (AI&DS) student.  
+👋 Hi there! I'm Maneesha, a third-year Artificial Intelligence & Data Science (AI&DS) student.  
 
 💻 I’m passionate about:  
 - Building IoT-based solutions like home security systems.  
